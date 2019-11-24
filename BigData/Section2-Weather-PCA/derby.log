@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Thu Nov 08 17:50:52 CET 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.12.1.1 - (1704137): instance a816c00e-0166-f43b-cf6a-00000fda8d28 
+on database directory /Users/josem/src/docencia/bde/Section2-Weather-PCA/metastore_db with class loader org.apache.spark.sql.hive.client.IsolatedClientLoader$$anon$1@52df5f7d 
+Loaded from file:/opt/spark/spark-2.3.2-bin-hadoop2.7/jars/derby-10.12.1.1.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_45-b14
+user.dir=/Users/josem/src/docencia/bde/Section2-Weather-PCA
+os.name=Mac OS X
+os.arch=x86_64
+os.version=10.14.1
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
